@@ -13,7 +13,9 @@ body{
 	}
 
 .content-template {
-	margin-top: -20px;
+	padding-top: 200px;
+	padding-right: 20px; 
+	padding-left: 20px;
 	background: url("img/szary.jpg") center center no-repeat;
 
 	height: 800px;
@@ -33,5 +35,18 @@ body{
 
 }
 
+.fa-facebook {
+    
+    color:  #3B5998 !important; 
+}
+.fa-github {
+    
+    color:  black !important; 
+}
+.fa-linkedin {
+	color:  #007bb5;
+}
 
-//1140/730
+.thumbnail: {
+	background: transparent !important;
+}
