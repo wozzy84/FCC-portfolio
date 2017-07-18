@@ -50,3 +50,10 @@ body{
 .thumbnail: {
 	background: transparent !important;
 }
+
+.contact-template {
+	padding-top: 50px;
+	background-color: #d3d3d3;
+	height: 800px;
+
+}
